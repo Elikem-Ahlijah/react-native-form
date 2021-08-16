@@ -4,7 +4,7 @@ import { View, Text, ScrollView, TouchableOpacity, TextInput, StyleSheet } from 
 const SignUpScreen = () => {
     return (
         <ScrollView style={styles.container}>
-            <Text style={styles.heading}>Log in</Text>
+            <Text style={styles.heading}>Sign up</Text>
             <View>
                 <TextInput style={styles.input} placeholder='Username'/>
                 <Text style={styles.line}></Text>
