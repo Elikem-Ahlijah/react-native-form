@@ -18,7 +18,7 @@ const FormScreen = () => {
             </View>
             <View>
                 <TouchableOpacity style={styles.button}>
-					<Text style={styles.buttonText}>Update Profile</Text>
+					<Text style={styles.buttonText}>Log in</Text>
 				</TouchableOpacity>
             </View>
             <View>
